@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-[![Supatuck Streak](https://streak-stats.demolab.com?user=supatuck&theme=vue-dark&card_width=900&card_height=200)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=supatuck&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=supatuck&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=supatuck&layout=compact&theme=tokyonight)
