@@ -56,12 +56,8 @@ const tucker = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=supatuck&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=7aa2f7&title_color=bb9af7" alt="stats" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=supatuck&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=bb9af7" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=supatuck&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=supatuck&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&icon_color=7aa2f7&title_color=bb9af7" alt="stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=supatuck&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
