@@ -61,7 +61,7 @@ const tucker = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=supatuck&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://streak-stats.demolab.com?user=supatuck&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
