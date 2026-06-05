@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:1f2335,100:414868&height=210&section=header&text=Tucker%20·%20supatuck&fontColor=7aa2f7&fontSize=46&fontAlignY=36&desc=solo%20founder%20·%20building%20Honedly&descSize=18&descAlignY=56&animation=fadeIn" alt="header" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Solo+founder+building+Honedly;Web+·+Native+iOS+%26+Android+·+AI;High-protein+meal+%26+fitness%2C+coached+by+Claude;I+ship+the+whole+stack+%E2%80%94+pixels+to+Postgres" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Solo+founder+building+Honedly;Web%2C+native+iOS+%26+Android%2C+AI;High-protein+meal+%26+fitness%2C+coached+by+Claude;I+ship+the+whole+stack%2C+pixels+to+Postgres" alt="typing" />
 </a>
 
 <br/>
@@ -56,8 +56,8 @@ const tucker = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=supatuck&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=7aa2f7&title_color=bb9af7" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supatuck&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=bb9af7" alt="top languages" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=supatuck&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=7aa2f7&title_color=bb9af7" alt="stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=supatuck&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=bb9af7" alt="top languages" />
 
 <br/>
 
