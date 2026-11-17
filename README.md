@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:1f2335,100:414868&height=210&section=header&text=Tucker%20·%20supatuck&fontColor=7aa2f7&fontSize=46&fontAlignY=36&desc=solo%20founder%20·%20building%20Honedly&descSize=18&descAlignY=56&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:1f2335,100:414868&height=210&section=header&text=Tucker%20·%20supatuck&fontColor=7aa2f7&fontSize=46&fontAlignY=36&desc=solo%20founder%20·%20building%20Kovu%20%26%20Honedly&descSize=18&descAlignY=56&animation=fadeIn" alt="header" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Solo+founder+building+Honedly;Web%2C+native+iOS+%26+Android%2C+AI;High-protein+meal+%26+fitness%2C+coached+by+Claude;I+ship+the+whole+stack%2C+pixels+to+Postgres" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Solo+founder+building+Kovu+%26+Honedly;A+calm%2C+competent+mod+for+Discord+servers;A+high-protein+meal+%26+fitness+tracker;I+ship+the+whole+stack%2C+pixels+to+Postgres" alt="typing" />
 </a>
 
 <br/>
 
+[![kovu.gg](https://img.shields.io/badge/🌐_kovu.gg-1a1b26?style=for-the-badge&labelColor=1a1b26)](https://kovu.gg)
 [![honedly.com](https://img.shields.io/badge/🌐_honedly.com-1a1b26?style=for-the-badge&labelColor=1a1b26)](https://honedly.com)
 <img src="https://komarev.com/ghpvc/?username=supatuck&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
 
@@ -20,16 +21,19 @@
 ```ts
 const tucker = {
   role:     "solo founder — design, code, ship, support",
-  product:  "Honedly — a high-protein meal & fitness tracker",
-  surfaces: "a web app + native iOS & Android apps",
-  ai:       "an AI 'Coach' that plans your meals and keeps you honest",
+  products: {
+    kovu:    "a Discord bot + web dashboard for running communities",
+    honedly: "a high-protein meal & fitness tracker",
+  },
+  surfaces: "Discord, the web, and native iOS & Android",
   mantra:   "ship small, ship often, measure everything",
 }
 ```
 
-- 🍱 **Building [Honedly](https://honedly.com)** end-to-end — web, native apps, billing, and an AI coach, mostly solo.
+- 🛡️ **Building [Kovu](https://kovu.gg)** — a Discord bot and dashboard covering moderation, automod, logging, tickets, levels and more, running entirely on Cloudflare.
+- 🍱 **Building [Honedly](https://honedly.com)** — a high-protein meal & fitness tracker on the web and native iOS & Android, with a built-in coach.
 - 🧪 I like the unglamorous parts: reliability, polish, and making things _fast_.
-- 🤖 Lately: getting the iOS & Android apps to feature parity and making the coach smarter.
+- 🔭 Lately: most of my commits are going into Kovu — new modules, the dashboard, and keeping [status.kovu.gg](https://status.kovu.gg) green.
 - 💬 Ask me about going from idea → shipped product as a team of one.
 
 ---
@@ -46,7 +50,7 @@ const tucker = {
 ![Swift](https://img.shields.io/badge/Swift-1a1b26?style=for-the-badge&logo=swift&logoColor=ff9e64)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1a1b26?style=for-the-badge&logo=kotlin&logoColor=bb9af7)
 ![Postgres](https://img.shields.io/badge/Postgres-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
-![AI](https://img.shields.io/badge/AI-1a1b26?style=for-the-badge&logo=anthropic&logoColor=ff9e64)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-1a1b26?style=for-the-badge&logo=cloudflareworkers&logoColor=ff9e64)
 
 </div>
 
@@ -79,6 +83,6 @@ const tucker = {
 
 <div align="center">
 
-<sub>🌙 themed with <a href="https://github.com/anuraghazra/github-readme-stats">tokyonight</a> · built between commits on <a href="https://honedly.com">Honedly</a></sub>
+<sub>🌙 themed with <a href="https://github.com/anuraghazra/github-readme-stats">tokyonight</a> · built between commits on <a href="https://kovu.gg">Kovu</a> &amp; <a href="https://honedly.com">Honedly</a></sub>
 
 </div>
