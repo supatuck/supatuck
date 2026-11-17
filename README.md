@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:1f2335,100:414868&height=210&section=header&text=Tucker%20·%20supatuck&fontColor=7aa2f7&fontSize=46&fontAlignY=36&desc=solo%20founder%20·%20building%20Kovu%20%26%20Honedly&descSize=18&descAlignY=56&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:1f2335,100:414868&height=210&section=header&text=Tucker%20·%20supatuck&fontColor=7aa2f7&fontSize=46&fontAlignY=36&desc=solo%20founder%20·%20building%20Kovu%20%2B%20Honedly&descSize=18&descAlignY=56&animation=fadeIn" alt="header" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Solo+founder+building+Kovu+%26+Honedly;A+calm%2C+competent+mod+for+Discord+servers;A+high-protein+meal+%26+fitness+tracker;I+ship+the+whole+stack%2C+pixels+to+Postgres" alt="typing" />
